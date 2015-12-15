@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1A8A30ABA815A137D25009C58B065CC341F36259",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1A8A30ABA815A137D25009C58B065CC341F36259" : 0,
+    "E81D34D64DF1251A1D53E6AEEA7A2C866C5B8328" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1193D8DD-8B78-4D55-9865-11C28373CD84",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1A8A30ABA815A137D25009C58B065CC341F36259" : "vng-fresher\/",
+    "E81D34D64DF1251A1D53E6AEEA7A2C866C5B8328" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NearbyPlaces",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NearbyPlaces.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hyubyn\/vng-fresher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A8A30ABA815A137D25009C58B065CC341F36259"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hyubyn\/Fresher-VNG.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E81D34D64DF1251A1D53E6AEEA7A2C866C5B8328"
+    }
+  ]
+}
